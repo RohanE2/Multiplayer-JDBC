@@ -14,5 +14,7 @@ This project is a multiplayer music player application that allows users to play
 This project relies on the following dependencies:
 
 - Java Development Kit (JDK)
-- JDBC driver for your database (MySQL, PostgreSQL, etc.)
+- JDBC driver for your database (MySQL)
+
+
 ![Screenshot 2024-03-13 114311](https://github.com/RohanE2/Multiplayer-JDBC/assets/126950654/eb6dc6cd-33a6-45c1-aff5-813e28b6e905)
