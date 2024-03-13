@@ -1,6 +1,6 @@
 # Multiplayer Music Player
 
-This project is a multiplayer music player application that allows users to play, add, remove, and edit songs.
+This project is a multiplayer music player application that allows users to play, add, remove, and edit songs using JDBC.
 
 ## Features
 
